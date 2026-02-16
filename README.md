@@ -8,7 +8,6 @@
 
 - 🎓 I'm currently a **3rd year student at Epitech**.
 - 🔭 I'm working as a **Fullstack Developer**.
-- 🚀 I specialize in building scalable web applications and exploring low-level system programming.
 - ⚡ **Fun fact**: I love solving complex problems with clean, efficient code.
 
 ---
